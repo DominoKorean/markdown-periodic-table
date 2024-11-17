@@ -1,0 +1,12 @@
+| period \ group | 1      |2       |3       |4        |5        |6        |7        |8        |9        |10       |11       |12       |13       |14       |15       |16       |17       |18       |
+|:--------------:|:------:|:------:|:------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+|1               |1<br>H  |        |        |         |         |         |         |         |         |         |         |         |         |         |         |         |         |2<br>He  |
+|2               |3<br>Li |4<br>Be |        |         |         |         |         |         |         |         |         |         |5<br>B   |6<br>C   |7<br>N   |8<br>O   |9<br>F   |10<br>Ne |
+|3               |11<br>Na|12<br>Mg|        |         |         |         |         |         |         |         |         |         |13<br>Al |14<br>Si |15<br>P  |16<br>S  |17<br>Cl |18<br>Ar |
+|4               |19<br>K |20<br>Ca|21<br>Sc|22<br>Ti |23<br>V  |24<br>Cr |25<br>Mn |26<br>Fe |27<br>Co |28<br>Ni |29<br>Cu |30<br>Zn |31<br>Ga |32<br>Ge |33<br>As |34<br>Se |35<br>Br |36<br>Kr |
+|5               |37<br>Rb|38<br>Sr|39<br>Y |40<br>Zr |41<br>Nb |42<br>Mo |43<br>Tc |44<br>Ru |45<br>Rh |46<br>Pd |47<br>Ag |48<br>Cd |49<br>In |50<br>Sn |51<br>Sb |52<br>Te |53<br>I  |54<br>Xe |
+|6               |55<br>Cs|56<br>Ba|57 - 71 |72<br>Hf |73<br>Ta |74<br>W  |75<br>Re |76<br>Os |77<br>Ir |78<br>Pt |79<br>Au |80<br>Hg |81<br>Tl |82<br>Pb |83<br>Bi |84<br>Po |85<br>At |86<br>Rn |
+|7               |87<br>Fr|88<br>Ra|89 - 103|104<br>Rf|105<br>Db|106<br>Sg|107<br>Bh|108<br>Hs|109<br>Mt|110<br>Ds|111<br>Rg|112<br>Cn|113<br>Nh|114<br>Fl|115<br>Mc|116<br>Lv|117<br>Ts|118<br>Og|
+|                |        |        |        |         |         |         |         |         |         |         |         |         |         |         |         |         |         |         |
+|                |        |        |        |57<br>La |58<br>Ce |59<br>Pr |60<br>Nd |61<br>Pm |62<br>Sm |63<br>Eu |64<br>Gd |65<br>Tb |66<br>Dy |67<br>Ho |68<br>Er |69<br>Tm |70<br>Yb |71<br>Lu |
+|                |        |        |        |89<br>Ac |90<br>Th |91<br>Pa |92<br>U  |93<br>Np |94<br>Pu |95<br>Am |96<br>Cm |97<br>Bk |98<br>Cf |99<br>Es |100<br>Fm|101<br>Md|102<br>No|103<br>Lr|
