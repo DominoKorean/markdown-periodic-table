@@ -1,4 +1,4 @@
-# Markdown Period Table
+# Markdown Periodic Table
 Periodic table written in markdown
 
 <br>
